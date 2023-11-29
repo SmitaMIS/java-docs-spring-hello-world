@@ -50,4 +50,4 @@ jobs:
           app-name: 'Smitatest1'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_93F6973BB2A6408A8A3FFA6FDD6443FA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_424CC8B0D95E4573A0271C58FD1C7D17 }}
